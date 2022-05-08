@@ -1,0 +1,214 @@
+[
+    {
+        "id":1,
+        "name":"HUAWEI Y9a",
+        "price":400,
+        "image":"https://www.jawal.tech/wp-content/uploads/2021/05/HUAWEI-Y9a-%D8%AC%D9%88%D8%A7%D9%84.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":2,
+        "name":"Oppo A31",
+        "price":140,
+        "image":"https://m.media-amazon.com/images/I/41770GRZf+L._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":3,
+        "name":"Samsung Galaxy A22",
+        "price":300,
+        "image":"https://m.media-amazon.com/images/I/81ydFP7bKQL._AC_SL1500_.jpgg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":4,
+        "name":"Huawei Y9 prime 2019",
+        "price":250,
+        "image":"https://m.media-amazon.com/images/I/31PNwHaiNsL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":5,
+        "name":"iphone 11 pro",
+        "price":500,
+        "image":"https://m.media-amazon.com/images/I/31topxbnNTL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":6,
+        "name":"iphone 12 pro",
+        "price":700,
+        "image":"https://m.media-amazon.com/images/I/71Sa8+9H3xL._AC_SX679_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":7,
+        "name":"iphone 13 pro",
+        "price":1000,
+        "image":"https://m.media-amazon.com/images/I/61AwGDDZd3L._AC_SL1500_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":1,
+        "name":"HUAWEI Y9a",
+        "price":400,
+        "image":"https://www.jawal.tech/wp-content/uploads/2021/05/HUAWEI-Y9a-%D8%AC%D9%88%D8%A7%D9%84.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":2,
+        "name":"Oppo A31",
+        "price":140,
+        "image":"https://m.media-amazon.com/images/I/41770GRZf+L._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":3,
+        "name":"Samsung Galaxy A22",
+        "price":300,
+        "image":"https://m.media-amazon.com/images/I/81ydFP7bKQL._AC_SL1500_.jpgg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":4,
+        "name":"Huawei Y9 prime 2019",
+        "price":250,
+        "image":"https://m.media-amazon.com/images/I/31PNwHaiNsL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":5,
+        "name":"iphone 11 pro",
+        "price":500,
+        "image":"https://m.media-amazon.com/images/I/31topxbnNTL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":6,
+        "name":"iphone 12 pro",
+        "price":700,
+        "image":"https://m.media-amazon.com/images/I/71Sa8+9H3xL._AC_SX679_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":7,
+        "name":"iphone 13 pro",
+        "price":1000,
+        "image":"https://m.media-amazon.com/images/I/61AwGDDZd3L._AC_SL1500_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":1,
+        "name":"HUAWEI Y9a",
+        "price":400,
+        "image":"https://www.jawal.tech/wp-content/uploads/2021/05/HUAWEI-Y9a-%D8%AC%D9%88%D8%A7%D9%84.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":2,
+        "name":"Oppo A31",
+        "price":140,
+        "image":"https://m.media-amazon.com/images/I/41770GRZf+L._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":3,
+        "name":"Samsung Galaxy A22",
+        "price":300,
+        "image":"https://m.media-amazon.com/images/I/81ydFP7bKQL._AC_SL1500_.jpgg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":4,
+        "name":"Huawei Y9 prime 2019",
+        "price":250,
+        "image":"https://m.media-amazon.com/images/I/31PNwHaiNsL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":5,
+        "name":"iphone 11 pro",
+        "price":500,
+        "image":"https://m.media-amazon.com/images/I/31topxbnNTL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":6,
+        "name":"iphone 12 pro",
+        "price":700,
+        "image":"https://m.media-amazon.com/images/I/71Sa8+9H3xL._AC_SX679_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":7,
+        "name":"iphone 13 pro",
+        "price":1000,
+        "image":"https://m.media-amazon.com/images/I/61AwGDDZd3L._AC_SL1500_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":1,
+        "name":"HUAWEI Y9a",
+        "price":400,
+        "image":"https://www.jawal.tech/wp-content/uploads/2021/05/HUAWEI-Y9a-%D8%AC%D9%88%D8%A7%D9%84.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":2,
+        "name":"Oppo A31",
+        "price":140,
+        "image":"https://m.media-amazon.com/images/I/41770GRZf+L._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":3,
+        "name":"Samsung Galaxy A22",
+        "price":300,
+        "image":"https://m.media-amazon.com/images/I/81ydFP7bKQL._AC_SL1500_.jpgg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":4,
+        "name":"Huawei Y9 prime 2019",
+        "price":250,
+        "image":"https://m.media-amazon.com/images/I/31PNwHaiNsL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+
+    },
+    {
+        "id":5,
+        "name":"iphone 11 pro",
+        "price":500,
+        "image":"https://m.media-amazon.com/images/I/31topxbnNTL._AC_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+        
+    },
+    {
+        "id":6,
+        "name":"iphone 12 pro",
+        "price":700,
+        "image":"https://m.media-amazon.com/images/I/71Sa8+9H3xL._AC_SX679_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    },
+    {
+        "id":7,
+        "name":"iphone 13 pro",
+        "price":1000,
+        "image":"https://m.media-amazon.com/images/I/61AwGDDZd3L._AC_SL1500_.jpg",
+        "description":"camera :16MP + 8MP+ 2MP \n Front camera: 16MP \n ram:4 GB \n rom:128 GB \n battery: 4000 mAh \n screen : 6.59 Inch"
+    }
+ ]
